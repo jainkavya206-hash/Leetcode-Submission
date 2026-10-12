@@ -1,3 +1,4 @@
+#include<cmath>
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
@@ -8,9 +9,7 @@ public:
         for (int i=0;i<n;i++){
             if (nums[i]==1){
                 Onecount++;
-                if (maxone<Onecount){
-                    maxone=Onecount;
-                }
+                maxone=max(maxone,Onecount);
 
             }
             else if(nums[i]!=1 ){
