@@ -12,7 +12,7 @@ public:
                 maxone=max(maxone,Onecount);
 
             }
-            else if(nums[i]!=1 ){
+            else {
                 Onecount=0;
             }
             
