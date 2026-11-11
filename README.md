@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jainkavya206-hash/Leetcode-Submission/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jainkavya206-hash/Leetcode-Submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
